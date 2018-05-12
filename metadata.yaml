@@ -1,0 +1,35 @@
+_repo: Under-the-Trees-and-Elsewhere_19645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2006-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'PS'
+tableOfContents: 'An April day -- Under the apple boughs -- Along the road: I -- Along
+  the road: II -- The open fields -- Earth and sky -- The mystery of night -- Off
+  shore -- A mountain rivulet -- The earliest insights -- The heart of the woods --
+  Beside the river -- At the spring -- On the heights -- Under college elms -- A summer
+  morning -- A summer noon -- Eventide -- The turn of the tide -- A memory of summer
+  -- In the Forest of Arden, I-XI -- An undiscovered island, I-VI.'
+title: Under the Trees and Elsewhere
+url: http://www.gutenberg.org/ebooks/19645
