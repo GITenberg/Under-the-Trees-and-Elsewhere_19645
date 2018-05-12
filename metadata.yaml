@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19645#Under-the-Trees-and-Elsewhere
 gutenberg_issued: '2006-10-27'
 gutenberg_type: Text
 identifiers:
